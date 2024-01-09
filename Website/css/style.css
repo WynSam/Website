@@ -26,7 +26,7 @@
 }
 @font-face {
 	font-family: "Boldins";
-	src:url("../Fonts/Hello-Kitty/Boldins.otf");
+	src:url("../fonts/Hello-Kitty/Boldins.otf");
 }
 #menu {
 	display: flex;
