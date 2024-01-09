@@ -75,7 +75,7 @@ p {
 }
 @font-face {
 	font-family: "DotGothic16";
-	src:url("../Fonts/DotGothic16/DotGothic16-Regular.ttf");
+	src:url("../fonts/DotGothic16/DotGothic16-Regular.ttf");
 }
 #container {
 	display: flex;
